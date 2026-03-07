@@ -82,6 +82,6 @@ Flipkart-Sales-Dashboard/
 
 ## 👨‍💻 Author
 
-**Ashu Desale**
+**Aniket Desale**
 
 Data Analysis Project
